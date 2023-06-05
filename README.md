@@ -2,7 +2,7 @@
 
 ---
 
-## Project 5 - Scroll Animation - 50 Projects In 50 Days
+## Project 6 - Scroll Animation - 50 Projects In 50 Days
 
 You can reach my website by clicking [here.](https://isacancabuk.github.io/scroll-animation/)
 
